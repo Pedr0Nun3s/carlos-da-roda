@@ -10,3 +10,20 @@ body{
     color: var(--preto);
     font-family: 'Chakra Petch', 'Sans-Senif';
 }
+.conteudo-principal{
+    display: flex;
+    flex-direction: column;
+    background-color: blue;
+    text-align: center;
+    max-with: 1200px;
+    width:100%;
+    margin: 0 auto;
+}
+.título-principal{
+    text-aling: left;
+    width: 100%
+    font-size: 32px:
+}
+    
+    
+    
