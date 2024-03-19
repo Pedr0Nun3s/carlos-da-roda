@@ -24,6 +24,10 @@ body{
     width: 100%
     font-size: 32px:
 }
+.ativo{
+    background-color: var(--botao-ativo);
+    border-bottm: 4px solid var(--verde-)
+}
     
     
     
